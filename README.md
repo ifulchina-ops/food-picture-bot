@@ -38,3 +38,5 @@ grader, set `MAKEFUN_OUTPUT_DIR` to redirect the output.
 - `art.png` — the image
 - `README.md` — this file
 - `LICENSE` — MIT
+
+Entry: chocolate fondant with molten centre, gold leaf and raspberries.

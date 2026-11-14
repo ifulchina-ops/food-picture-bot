@@ -12,6 +12,7 @@ Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
     mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 """
 
+# food-picture-01 entry: chocolate fondant, molten centre
 import hashlib
 import os
 import shutil
